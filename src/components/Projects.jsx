@@ -8,7 +8,7 @@ const arr = [
   title: "Byto – Intelligent Cloud Kitchen Delivery Platform (In Progress)",
   description:
     "Currently developing a full-stack MERN-based food delivery platform optimized for cloud kitchens. Implementing intelligent order routing based on user location, kitchen load, and preparation time to ensure efficient delivery. Building real-time order management for users, branches, and delivery partners with dynamic resource allocation to minimize delays.",
-  image: "proj7.png",
+  image: "proj4.png",
   tech: ["React", "Node.js", "Express.js", "MongoDB", "Socket.io"],
   live: "",
   github: "https://github.com/Jatly/Byto",
