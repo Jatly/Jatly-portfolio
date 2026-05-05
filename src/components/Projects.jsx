@@ -5,6 +5,15 @@ import Card from "../components/ui/Card";
 const Projects = () => {
 const arr = [
   {
+  title: "Byto – Intelligent Cloud Kitchen Delivery Platform (In Progress)",
+  description:
+    "Currently developing a full-stack MERN-based food delivery platform optimized for cloud kitchens. Implementing intelligent order routing based on user location, kitchen load, and preparation time to ensure efficient delivery. Building real-time order management for users, branches, and delivery partners with dynamic resource allocation to minimize delays.",
+  image: "proj7.png",
+  tech: ["React", "Node.js", "Express.js", "MongoDB", "Socket.io"],
+  live: "",
+  github: "https://github.com/Jatly/Byto",
+},
+  {
     title: "WorkHive – Resource Allocation System",
     description:
       "Full-stack MERN application handling 50+ resource bookings with role-based authentication and authorization. Built conflict detection logic to prevent overlapping bookings and ensure smooth scheduling. Developed REST APIs and deployed on Render for high reliability.",
